@@ -39,4 +39,5 @@ let notas = [
     [10,6,8],
     [7,9,10]
     ]
-console.log('Primeiro aluno',notas[1]);
+//console.log('Primeiro aluno',notas[1]);
+//console.log('Terceiro aluno',notas[2][0]);
